@@ -35,7 +35,7 @@ I find the process of building a computer from scratch to be both challenging an
 ### GitHub Projects Worth Mentioning
 • <a href="https://github.com/Janis-Jekelis/API_IP">API_IP</a>
 
-   <strong> Description:</strong>ad
+ <p> <strong> Description:</strong>ad</p> 
    
 
 
