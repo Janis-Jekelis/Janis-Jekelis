@@ -33,7 +33,7 @@ I find the process of building a computer from scratch to be both challenging an
 ---
 
 ### GitHub Projects Worth Mentioning
-U+2022 <a href="https://github.com/Janis-Jekelis/API_IP">API_IP</a>
+•<a href="https://github.com/Janis-Jekelis/API_IP">API_IP</a>
 
 
 
