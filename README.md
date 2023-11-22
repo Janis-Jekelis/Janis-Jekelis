@@ -9,7 +9,7 @@ I find the process of building a computer from scratch to be both challenging an
 ### Skills
 
 ## Back-End
-   [PHP / Laravel](https://camo.githubusercontent.com/8a77183652234a701ef35ef085d7870a677bff3c7a491df8a506dd27c1fa30df/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f7068702d312e737667)https://camo.githubusercontent.com/8a77183652234a701ef35ef085d7870a677bff3c7a491df8a506dd27c1fa30df/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f7068702d312e737667
+   
 
 
 
