@@ -9,8 +9,7 @@ I find the process of building a computer from scratch to be both challenging an
 ### Skills
 
 #### Back-End
-[![BE]
- <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php logo" width="50" height="50" />]
+ <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel logo" width="50" height "50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="50" height="50" />
 
