@@ -25,11 +25,11 @@ I find the process of building a computer from scratch to be both challenging an
 </div>
 
 #### Other Skills & Tools
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GIT" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original-wordmark.svg" alt="PHP storm" width="50" height "50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="50" height="50" />
-
-
+</div>
 
 
 
