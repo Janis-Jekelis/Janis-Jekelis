@@ -6,6 +6,8 @@ Apart from my academic pursuits, I enjoy tinkering with PC hardware and assembli
 I find the process of building a computer from scratch to be both challenging and rewarding.
 
 ---
+### Skills
+---
 <!--
 **Janis-Jekelis/Janis-Jekelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
