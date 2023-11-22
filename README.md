@@ -10,7 +10,4 @@ I find the process of building a computer from scratch to be both challenging an
 
 #### Back-End
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php logo" width="50" height="50" />
-   
-
-
 
