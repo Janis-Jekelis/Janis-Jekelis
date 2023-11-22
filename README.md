@@ -7,7 +7,7 @@ I find the process of building a computer from scratch to be both challenging an
 
 ---
 ### Skills
----
+--
 <!--
 **Janis-Jekelis/Janis-Jekelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
